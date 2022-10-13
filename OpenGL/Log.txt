@@ -1,0 +1,53 @@
+[Notification] Open log file Log.txt
+[Test] Vec2 : OK
+[Test] Vec3 : OK
+[Test] Vec4 : OK
+[Test] Mat4 : OK
+---------
+[Notification] Init resource
+[Notification] Add element Cube in resources
+[Notification] Open obj Resources/Obj/cube.obj
+[Notification] Close obj
+[Notification] Load Mesh (Cube)!
+[Notification] Add element BasicShader in resources
+[Notification] Open shader Resources/Shaders/VertexShaderSource.vert
+[Notification] Close shader Resources/Shaders/VertexShaderSource.vert
+[Notification] Open shader Resources/Shaders/FragmentShaderSource.frag
+[Notification] Close shader Resources/Shaders/FragmentShaderSource.frag
+[Notification] Add element Wall in resources
+[Notification] Add element Sample in resources
+[Notification] Add element Slime in resources
+[Notification] Open obj Resources/Obj/Slime.obj
+[Notification] Close obj
+[Notification] Load Mesh (Slime)!
+[Notification] Add element SlimeText in resources
+[Notification] Add element FryingPan in resources
+[Notification] Open obj Resources/Obj/frying_pan.obj
+[Notification] Close obj
+[Notification] Load Mesh (FryingPan)!
+[Notification] Add element FryingPanText in resources
+[Notification] Add element Pistol in resources
+[Notification] Open obj Resources/Obj/c_pistol.obj
+[Notification] Close obj
+[Notification] Load Mesh (Pistol)!
+[Notification] Add element PistolText in resources
+[Notification] Add element Scene1 in resources
+---------
+[Notification] Init scene 1
+[Notification] Add gameObject Box1 in scene
+[Notification] Add gameObject Default name in scene
+[Notification] Add gameObject Box3 in scene
+[Notification] Add gameObject Box4 in scene
+[Notification] Add gameObject Box5 in scene
+[Notification] Add gameObject Box6 in scene
+[Notification] Add gameObject Point Light in scene
+[Notification] Add gameObject Spot Light in scene
+[Notification] Add gameObject Slime in scene
+[Notification] Add gameObject Frying Pan in scene
+[Notification] Add gameObject Pistol in scene
+[Notification] Set parent Default name to Slime
+[Notification] Set parent Default name to Pistol
+[Notification] Set parent Pistol to Frying Pan
+[Notification] Add direction light
+[Notification] Add point light
+[Notification] Add spot light
